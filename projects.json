@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Topographix",
+        "file": "project_topographix.html",
+        "image": "images/topographix.jpg",
+        "description": "GIS & topography tools for survey engineers"
+    },
+    {
+        "title": "InDzTracker",
+        "file": "project_indztracker.html",
+        "image": "images/indztracker.jpg",
+        "description": "Simple tracking & statistics system"
+    }
+]
