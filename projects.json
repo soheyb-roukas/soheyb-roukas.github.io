@@ -11,4 +11,10 @@
         "image": "images/indztracker.jpg",
         "description": "Simple tracking & statistics system"
     }
+        {
+        "title": "Kbicho",
+        "file": "project_Kbicho.html",
+        "image": "images/Kbicho.jpg",
+        "description": "Simple App to monitor adhahi.dz "
+    }
 ]
